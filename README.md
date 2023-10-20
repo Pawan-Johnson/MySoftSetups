@@ -12,6 +12,8 @@
    6. clipboard
    7. sound io dec chooser
 4. dconf
+5. flatpak
+6. AppImageLauncher
 
 ## Browsers
 1. Firefox
@@ -23,9 +25,16 @@
 2. Vlc
 3. Teams
 4. discord
+5. zoom
+6. slack
+7. youtube-dl
+   
 ## Terminal
 1. tmux
-2. Nala
+   1. plugin manager
+2. Nalad
+3. zsh + omg zsh + dracula
+4. Terminal shortcuts like chrome
 
 ## Software tools
 1. mamba
@@ -36,14 +45,22 @@
 ## Hep Tools
 1. ROOT
 2. Delphes
+3. HepMc
+4. Pythia
+5. madgrapg
+6. checkmate
 
-
+## Productivity
+1. Todoist
+2. 
 
 ## Editors
 1. code
 2. codium
 3. sublime
 4. texstudio
+5. mARKTEXT
+6. Okular
 
    
 ## General Settings
