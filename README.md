@@ -52,7 +52,7 @@
 
 ## Productivity
 1. Todoist
-2. 
+2. Zotero
 
 ## Editors
 1. code
